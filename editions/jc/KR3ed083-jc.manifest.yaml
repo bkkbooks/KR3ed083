@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ed083_000-jc.yaml, hash: 'sha256:06d4a3c40a9fd10760e853d27fcddb4d2decbde8b1284138ed4d0d5c5c809095'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed083_000-jc.markers.yaml, hash: 'sha256:bf66cf8c12cebd902dece54d47c36e394565bb46e6247c41782e9c0a5f8ec88b'}
+  - {seq: 0, role: markers, filename: assets/KR3ed083_000-jc.markers.yaml, hash: 'sha256:f9962c96f87c6ff82e535c3e4941696cbb372ce82f64e5238ee000048c4cadbb'}
 table_of_contents:
 - ref:
     seq: 0
@@ -2321,4 +2321,4 @@ table_of_contents:
   label: 稀痘神
   type: section
   level: 2
-hash: sha256:d985dc5af463b7271a9ff14d1ea2e111701fb0772db595dd0d9d69cad5fabb48
+hash: sha256:58a260222a3cbeb8044b6303d1611940c3d55cd8c5f0e51269d924d8f9810093
